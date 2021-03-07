@@ -17,3 +17,4 @@ The results showed that the more rides and drivers, the average fare per ride an
 
 
 My recommendation to Pyber will be to increase the amount of drivers in Rural areas to match demand. Also decreasing the average fare per ride in Rural area can help lure in new customers to start using Pyber. Another recommendation is to reduce the number od drivers from Urban city because it shows that there is excessive number of drivers compared to the total number of rides. 
+
