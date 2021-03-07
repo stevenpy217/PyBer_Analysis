@@ -11,7 +11,6 @@ The PyBer project was created to anlayze the major data from Jan to May of 2019 
 The results showed that the more rides and drivers, the average fare per ride and driver went down. The less the number of rides and drivers, the average pride per ride and driver went up. This is shown in the below table. The highest performing city type was Urban, Suburban, and Rural. As you can see from the Total Fares amount, Urban out performed the other city types in this analysis. 
 
 
-![total_rides](total_rides.png)
 
 
 ## Summary
