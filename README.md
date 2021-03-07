@@ -14,7 +14,6 @@ The results showed that the more rides and drivers, the average fare per ride an
 ![total_rides](total_rides.png)
 
 
-
 ## Summary
 
 
